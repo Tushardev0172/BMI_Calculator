@@ -25,15 +25,22 @@ Check out the live site [here](https://body-mass-index-calculate.netlify.app/).
 To run this project locally, follow these steps:
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/Tushardev0172/BMI_Calculator.git
-2. Navigate to the project directory:
+   
+3. Navigate to the project directory:
+   
    ```bash
      cd BMI_Calculator
-3. Install the dependencies:
+   
+5. Install the dependencies:
+   
    ```bash
      npm install
-4. Start the development server:
+   
+7. Start the development server:
+   
    ```bash
    npm start
 
